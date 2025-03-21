@@ -1,0 +1,4 @@
+ogrencino derskodu dersadi notu
+507 2 art -1
+509 comp101 artcomp -1
+520 comp101 algoritma 93

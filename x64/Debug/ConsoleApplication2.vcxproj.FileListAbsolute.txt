@@ -1,0 +1,2 @@
+C:\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
+C:\Users\Berk\Desktop\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
